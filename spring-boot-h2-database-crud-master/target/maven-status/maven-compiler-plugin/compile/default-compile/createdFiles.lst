@@ -1,0 +1,4 @@
+com\rest\spring\jpa\h2\controller\TutorialController.class
+com\rest\spring\jpa\h2\repository\TutorialRepository.class
+com\rest\spring\jpa\h2\model\Tutorial.class
+com\rest\spring\jpa\h2\SpringBootJpaH2Application.class
